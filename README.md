@@ -75,4 +75,12 @@ This task taught me how to use SQL for actual data analysis, not just data retri
 
 I also learned how these SQL concepts are used in real companies to make better decisions. This task gave me confidence in writing SQL that’s not just functional but also meaningful.
 
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/f65c13a3-d5fa-4154-be8e-46a052850f42)
+
+![Image](https://github.com/user-attachments/assets/b1d33f19-6788-4da3-82a5-808cc40fdce1)
+
+![Image](https://github.com/user-attachments/assets/03207f79-c368-4321-99e4-e0486b605b11)
+
 
